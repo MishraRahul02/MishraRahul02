@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MishraRahul02
 - 👀 I’m interested in Coding and development
-- 🌱 I’m currently learning Data Science and MAchine Learning
+- 🌱 I’m currently learning Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me - rm2085364@gmail.com
   
